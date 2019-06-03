@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.pythonPath": "/Users/bishnoink/.virtualenvs/k-means/env/bin/python3.7"
+}
