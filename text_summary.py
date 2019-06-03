@@ -1,4 +1,3 @@
-import urllib.request
 from requests_html import HTMLSession
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
