@@ -78,6 +78,7 @@ def get_top_sentences(number_of_sentences, text):
 if __name__ == '__main__':
 	'''
     Complete example:
+	
 	'''
 	article_url = 'https://www.nytimes.com/2019/06/02/opinion/vaccines-peter-hotez.html'
 	#tag = "#mw-content-text > div > p"
