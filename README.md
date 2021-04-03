@@ -23,7 +23,11 @@ Import the text_summary into you existing program or run as stand alone script.
 It's tested on Python 3.7.2 version. install required packages from given requirements.txt file.
 ```
 pip install -r requirements.txt
+```
 
+### Download nltk modules
+```
+python -c "import nltk; nltk.download('stopwords');nltk.download('punkt')"
 ```
 
 ## Running the tests
