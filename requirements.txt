@@ -11,7 +11,7 @@ idna==2.10
 isort==5.8.0
 joblib==1.0.1
 lazy-object-proxy==1.6.0
-lxml==4.6.3
+lxml==4.6.5
 mccabe==0.6.1
 nltk==3.5
 parse==1.19.0
